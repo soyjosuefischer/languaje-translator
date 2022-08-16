@@ -15,11 +15,11 @@
 
   <a href="https://josuefischeroficial.github.io/languaje-translator/"><strong>➥ Live Demo</strong></a>
 
-</div>
-
 <br />
   
 ### Demo Screenshot
+  
+</div>
 
 ![Portfolio Desktop Demo](./assets/preview.png "Desktop Demo")
 
