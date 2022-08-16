@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">  
+    <title>Language Translator | Translate texts in more than 95 different languages. Simple and fast.</title>
+
+    <link rel="stylesheet" href="style.css">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="shortcut icon" href="./assets/logo.png" type="image/x-icon">
+    <meta name="description" content="Translate texts in more than 95 different languages. Simple and fast.">
+    <meta name="author" content="Josue Fischer">
+    <meta name="MobileOptimized" content="width">
+    <meta name="HandheldFriendly" content="true">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://josuefischeroficial.github.io/languaje-translator/">
+    <meta property="og:title" content="Language Translator | Translate texts in more than 95 different languages. Simple and fast.">
+    <meta property="og:description" content="Translate texts in more than 95 different languages. Simple and fast.">
+    <meta name="translation" content="translate">
+
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css"/>
+    
+  </head>
+  <body>
+    <div class="container">
+      <div class="wrapper">
+        <div class="text-input">
+          <textarea spellcheck="false" class="from-text" translate="yes" placeholder="Enter a text"></textarea>
+          <textarea spellcheck="false" readonly disabled class="to-text" translate="yes" placeholder="Translation"></textarea>
+        </div>
+        <ul translate="yes" class="controls">
+          <li translate="yes" class="row from">
+            <div class="icons">
+              <i id="from" class="fas fa-volume-up"></i>
+              <i id="from" class="fas fa-copy"></i>
+            </div>
+            <select></select>
+          </li>
+          <li class="exchange"><i class="fas fa-exchange-alt"></i></li>
+          <li class="row to">
+            <select></select>
+            <div class="icons">
+              <i id="to" class="fas fa-volume-up"></i>
+              <i id="to" class="fas fa-copy"></i>
+            </div>
+          </li>
+        </ul>
+      </div>
+      <button translate="yes">Translate</button>
+    </div>
+
+    <script src="js/countries.js"></script>
+    <script src="js/script.js"></script>
+
+  </body>
+</html>
