@@ -1,19 +1,19 @@
 <div align="center">
   
   ![JavaScript](https://img.shields.io/badge/JavaScript-Language-yellow?logo=javascript)
-  ![GitHub repo size](https://img.shields.io/github/repo-size/josuefischeroficial/languaje-translator)
-  ![GitHub](https://img.shields.io/github/license/josuefischeroficial/languaje-translator)
-  ![GitHub stars](https://img.shields.io/github/stars/josuefischeroficial/languaje-translator?style=social)
-  ![GitHub forks](https://img.shields.io/github/forks/josuefischeroficial/languaje-translator?style=social)
-  ![GitHub watchers](https://img.shields.io/github/watchers/josuefischeroficial/languaje-translator?style=social)
-  ![GitHub contributors](https://img.shields.io/github/contributors/josuefischeroficial/languaje-translator)
-  ![GitHub last commit](https://img.shields.io/github/last-commit/josuefischeroficial/languaje-translator)
+  ![GitHub repo size](https://img.shields.io/github/repo-size/iamjosuefischer/languaje-translator)
+  ![GitHub](https://img.shields.io/github/license/iamjosuefischer/languaje-translator)
+  ![GitHub stars](https://img.shields.io/github/stars/iamjosuefischer/languaje-translator?style=social)
+  ![GitHub forks](https://img.shields.io/github/forks/iamjosuefischer/languaje-translator?style=social)
+  ![GitHub watchers](https://img.shields.io/github/watchers/iamjosuefischer/languaje-translator?style=social)
+  ![GitHub contributors](https://img.shields.io/github/contributors/iamjosuefischer/languaje-translator)
+  ![GitHub last commit](https://img.shields.io/github/last-commit/iamjosuefischer/languaje-translator)
 
   <h2 align="center">Language Translator, translate texts in more than 95 different languages. Simple and fast. - By: Josue Fischer</h2>
 
   Responsive for all devices, built using HTML, CSS, and JavaScript.
 
-  <a href="https://josuefischeroficial.github.io/languaje-translator/"><strong>➥ Live Demo</strong></a>
+  <a href="https://iamjosuefischer.github.io/languaje-translator/"><strong>➥ Live Demo</strong></a>
 
 <br />
   
@@ -36,13 +36,13 @@ To run **Languaje Translator** locally, run this command on your git bash or ter
 Linux and macOS:
 
 ```bash
-sudo git clone https://github.com/josuefischeroficial/languaje-translator.git
+sudo git clone https://github.com/iamjosuefischer/languaje-translator.git
 ```
 
 Windows:
 
 ```bash
-git clone https://github.com/josuefischeroficial/languaje-translator.git
+git clone https://github.com/iamjosuefischer/languaje-translator.git
 ```
 
 ### Contact
